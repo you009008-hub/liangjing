@@ -1,8 +1,11 @@
 # 梁鲸桌面助手
-
+我也不知道我做这个玩意干嘛
 基于 Godot 的 Windows 桌面智能助手，整合人物互动、AI 对话、模型配置、知识库与任务执行。
 
 **当前版本：0.1.0-alpha.1（公开测试版）。**
+<img width="260" height="502" alt="image" src="https://github.com/user-attachments/assets/84add70d-0e98-4bee-bb2a-3586925eb300" />
+<img width="939" height="494" alt="image" src="https://github.com/user-attachments/assets/920db89c-cab4-4f33-a26a-e0bcb26a461f" />
+<img width="2405" height="1538" alt="image" src="https://github.com/user-attachments/assets/445e5b29-a834-4c67-8afc-b3ffe3a65b91" />
 
 ## 下载
 
