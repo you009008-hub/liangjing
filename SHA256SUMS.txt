@@ -1,2 +1,2 @@
-bc3b2a4873613214b7e07f7a78dd7655e1c263ddc5dc4f4b10fc0e605703d53c  Liangjing-0.1.0-alpha.1-windows-x64-setup.exe
-cb560fd72c5c5f159b067e7274cdbe6ebab91fbbf731305e1e79e4eec2966dd3  Liangjing-0.1.0-alpha.1-source.zip
+300a42bee203853af5dba998a42016be4d62f5b83c96bc14d75d8c1dd20fb361  Liangjing-0.1.0-alpha.1-windows-x64-setup.exe
+f9e32091b8f3ec1c8281c1ef5ae339a73bd5f2c615c770e1e9122d19b75951ae  Liangjing-0.1.0-alpha.1-source.zip

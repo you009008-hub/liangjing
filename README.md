@@ -1,5 +1,5 @@
 # 梁鲸桌面助手
-就是个桌宠版本的deepseek harness
+
 基于 Godot 的 Windows 桌面智能助手，整合人物互动、AI 对话、模型配置、知识库与任务执行。
 
 **当前版本：0.1.0-alpha.1（公开测试版）。**
@@ -24,6 +24,6 @@
 
 自有代码采用 [GPL-3.0-only](LICENSE)：允许商用，分发修改版须遵守对应源码提供等义务。图片许可范围另见 [LICENSE_STATUS.md](LICENSE_STATUS.md)，第三方组件保留原许可，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。上述文档中的 `docs/`、`licenses/` 路径位于源码压缩包内。
 
-正式源码 36 组回归、bootstrap 6 项测试通过，隔离便携安装的 1,942 个文件已逐项核对。安装器未签名；普通安装/卸载、新电脑、DPI、多显示器和真实服务兼容性仍需验收。素材逐图生成记录及独立许可待补齐。详情见 [发布验证范围](RELEASE_READINESS.md)。
+正式源码 36 组回归、bootstrap 8 项测试通过，隔离便携安装的 1,942 个文件已逐项核对。安装器未签名；普通安装/卸载、新电脑、DPI、多显示器和真实服务兼容性仍需验收。素材逐图生成记录及独立许可待补齐。详情见 [发布验证范围](RELEASE_READINESS.md)。
 
 普通问题请提交 Issue；不要公开 API Key、私人会话或完整安全漏洞利用内容。
